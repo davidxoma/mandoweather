@@ -1,0 +1,41 @@
+.mando-settings-menu a {
+    background-color: #4CAF50;
+    /* Green background */
+    /* Green border */
+    color: white;
+    /* White text */
+    padding: 20px 24px;
+    /* Some padding */
+    cursor: pointer;
+    /* Pointer/hand icon */
+    float: left;
+    /* Float the buttons side by side */
+    text-decoration: none;
+}
+
+.mando-active {
+    background-color: steelblue !important;
+}
+
+.mando-settings {
+    display: grid;
+}
+
+.mando-apikey-form {
+    display: grid;
+    padding: 15px;
+    background-color: steelblue !important;
+}
+
+.mando-settings-form-cbadge {
+    display: grid;
+    padding: 15px;
+    background-color: steelblue !important;
+}
+
+.mando-about {
+    display: grid;
+    padding: 15px;
+    background-color: steelblue !important;
+    color: white;
+}
